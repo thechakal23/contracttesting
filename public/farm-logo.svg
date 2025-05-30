@@ -1,0 +1,31 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sun -->
+  <circle cx="96" cy="32" r="20" fill="#FFC107" />
+  
+  <!-- Farm House -->
+  <path d="M48 40L80 40L64 24L48 40Z" fill="#795548" />
+  <rect x="52" y="40" width="24" height="24" fill="#8D6E63" />
+  <rect x="60" y="48" width="8" height="16" fill="#5D4037" />
+  
+  <!-- Field Rows -->
+  <rect x="16" y="72" width="96" height="8" fill="#8BC34A" />
+  <rect x="16" y="88" width="96" height="8" fill="#7CB342" />
+  <rect x="16" y="104" width="96" height="8" fill="#689F38" />
+  
+  <!-- Plants -->
+  <circle cx="28" cy="68" r="4" fill="#33691E" />
+  <rect x="27" y="56" width="2" height="12" fill="#33691E" />
+  
+  <circle cx="52" cy="68" r="4" fill="#33691E" />
+  <rect x="51" y="56" width="2" height="12" fill="#33691E" />
+  
+  <circle cx="76" cy="68" r="4" fill="#33691E" />
+  <rect x="75" y="56" width="2" height="12" fill="#33691E" />
+  
+  <circle cx="100" cy="68" r="4" fill="#33691E" />
+  <rect x="99" y="56" width="2" height="12" fill="#33691E" />
+  
+  <!-- NFT Token Symbol -->
+  <circle cx="20" cy="20" r="12" fill="#673AB7" opacity="0.8" />
+  <path d="M16 20L20 16L24 20L20 24L16 20Z" fill="white" />
+</svg> 
